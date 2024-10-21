@@ -4,4 +4,5 @@ Check out the `live demo` of `Spotify Home UI Clone`: [Live Demo](https://shaik-
 
 Here are some screenshots of `Spotify Home UI Clone`:
 
-![Screenshot 2024-10-07 010552](https://github.com/user-attachments/assets/7bb02228-7663-4bb8-9082-fe13c42ab1f3)
+![Screenshot 2024-10-08 074853](https://github.com/user-attachments/assets/26852703-a1af-4c03-8961-9ac2bdde5042)
+
